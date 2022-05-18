@@ -1,3 +1,3 @@
 ESPRIT-Bot
 
-A bot designed for monitoring and auto checkout Esprit.at products!
+A bot designed for monitoring and auto checkout Esprit.at products!1
